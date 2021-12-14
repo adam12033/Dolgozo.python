@@ -1,0 +1,31 @@
+
+1) Importálja a Dolgozo osztályt
+2) A Dolgozó osztályt egészítse ki, 
+   hogy a fizetést is tudja tárolni.
+3) Zárja le a megnyitott fájlt, az olvas_fajl() metódusban.
+4) Írja át az olvas_fajl() nevű függvényben
+   a fájl megnyitását, hogy nyissa meg a latbt.txt
+   állományt.
+5) Példányosítsa a latbt.py fájlban a Latbt osztályt,
+   latbt néven.
+6) A latbt objektumon hívja meg az olvas_fajl metódust.
+7) A latbt objektumon hívja meg a szamitAtlag() függvényt.
+8) Írja meg a szamitAtlag() függvényt, amely
+   kiszámolja a dolgozók fizetésének átlagát.
+9) A latbt objektumon hívja meg a kiirTelepulesek()
+   metódust.
+10) Írja meg a kiirTelepulesek() metódust, amely 
+   kiírja a dolgozók településeit.
+
+11) Írjon metódust bekerDolgozo() néven, ami
+    bekéri egy új dolgozó adatait.
+
+12) Írja meg az kiirFajlba() metódust, ami kiírja
+    a paraméterként kapott új dolgozó adatait
+    az uj.txt fajlba.
+
+13) A bekerDolgozo() metódusban hívjuk meg a kiirFajlba()
+   metódust a bekért dolgozót átadva.   
+
+14) Hívja meg a bekerDolgozo() metódust.
+
